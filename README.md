@@ -15,8 +15,7 @@ James Fairgrieve
 
 
 ## Resources
-
-
+ - [Kaggle Dataset](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news)
 
 ## Category 1
 ###### You can find the full code for this section [here](https://github.com/J-Fairgrieve/).
