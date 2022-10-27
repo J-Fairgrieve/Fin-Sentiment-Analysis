@@ -114,16 +114,16 @@ y_pred  = clf.predict(testing_data.values)
 ~~~
 
 ##### F1 Scores for the Test Data
-Negative: 0.04
-Neutral: 0.80
-Positive: 0.36
-Accuracy: 0.66
+- Negative: 0.04
+- Neutral: 0.80
+- Positive: 0.36
+- Accuracy: 0.66
 
 ##### F1 Scores for the Training Data
-Negative: 0.10
-Neutral: 0.87
-Positive: 0.73
-Accuracy: 0.79
+- Negative: 0.10
+- Neutral: 0.87
+- Positive: 0.73
+- Accuracy: 0.79
 
 The model, as expected, is poor for detecting news articles that aren't neutral. The model is 79% accurate on the training data but only 66% on the testing data. The best results are with the neutral articles (87% on training and 80% on test).
 
